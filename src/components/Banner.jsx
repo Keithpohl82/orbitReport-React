@@ -3,7 +3,7 @@ import "./styling.css";
 export default function Banner(){
     return(
         <>
-        <header>
+        <header className="bannerHeader">
          Orbit Report
         </header>
             <p>
